@@ -1,0 +1,86 @@
+{
+  "productList": [
+    {
+      "productName": "Kishan",
+      "category": "Vegetables",
+      "freshness": "Brand New",
+      "price": 4444,
+      "comment": "eewr",
+      "date": "2022-03-21T18:30:00.000Z",
+      "id": 2
+    },
+    {
+      "productName": "s",
+      "category": "Fruits",
+      "freshness": "Brand New",
+      "price": 3444,
+      "comment": "cdscsd",
+      "date": "2022-03-23T18:30:00.000Z",
+      "id": 3
+    },
+    {
+      "productName": "gf",
+      "category": "Vegetables",
+      "freshness": "Brand New",
+      "price": 7676,
+      "comment": "dfxf",
+      "date": "2022-03-06T18:30:00.000Z",
+      "id": 4
+    },
+    {
+      "productName": "sss",
+      "category": "Electronics",
+      "freshness": "Brand New",
+      "price": 34,
+      "comment": "dsddscvb",
+      "date": "2022-03-20T18:30:00.000Z",
+      "id": 10
+    },
+    {
+      "productName": "Mango",
+      "category": "Fruits",
+      "freshness": "Brand New",
+      "price": 300,
+      "comment": "King of fruits",
+      "date": "2022-03-20T18:30:00.000Z",
+      "id": 12
+    },
+    {
+      "productName": "sax",
+      "category": "Fruits",
+      "freshness": "Second Hand",
+      "price": 222,
+      "comment": "wqddqdw",
+      "date": "2022-03-17T18:30:00.000Z",
+      "id": 13
+    },
+    {
+      "productName": "kisaaaan",
+      "category": "Vegetables",
+      "freshness": "Brand New",
+      "price": 22222,
+      "comment": "wwdedeede",
+      "date": "2022-03-16T18:30:00.000Z",
+      "id": 14
+    },
+    {
+      "productName": "mobile phone",
+      "category": "Electronics",
+      "freshness": "Brand New",
+      "price": 100000,
+      "comment": "mobile device",
+      "date": "2022-03-16T18:30:00.000Z",
+      "id": 15
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
